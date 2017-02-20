@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>homebakerista</title>
   <subtitle></subtitle>
-  <id>https://homebakerista.curation.space</id>
-  <link href="https://homebakerista.curation.space"/>
-  <link href="https://homebakerista.curation.space/feed.xml" rel="self"/>
+  <id>https://homebakerista.ch</id>
+  <link href="https://homebakerista.ch"/>
+  <link href="https://homebakerista.ch/feed.xml" rel="self"/>
   <author>
     <name></name>
   </author>
